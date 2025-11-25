@@ -4,23 +4,23 @@ OTO is an OTT aggregation platform that unifies discovery and streaming across m
 
 ## Key Features
 
-- Unified search and discovery across major OTT platforms. [attached_file:1]  
-- Single sign-on and centralized subscription management. [attached_file:1]  
-- Cross-platform watchlist, continue-watching, and viewing history. [attached_file:1]  
-- AI-powered recommendations based on cross-platform behavior. [attached_file:1]  
+- Unified search and discovery across major OTT platforms.
+- Single sign-on and centralized subscription management. 
+- Cross-platform watchlist, continue-watching, and viewing history.
+- AI-powered recommendations based on cross-platform behavior. 
 
 ## Architecture Overview
 
 OTO follows a three-stage evolution:  
-- OTOdummy: Content discovery and metadata aggregation. [attached_file:1]  
-- OTOwire: Embedded streaming with multi-platform authentication. [attached_file:1]  
-- OTOplay: Full-scale aggregation with performance-based revenue sharing. [attached_file:1]  
+- OTOdummy: Content discovery and metadata aggregation. 
+- OTOwire: Embedded streaming with multi-platform authentication. 
+- OTOplay: Full-scale aggregation with performance-based revenue sharing. 
 
 ## Tech & Compliance (Planned)
 
-- Cloud-native microservices with CDN-optimized streaming and analytics. [attached_file:1]  
-- OAuth-based authentication with privacy-first data handling. [attached_file:1]  
-- Compliance with Indian IT rules, data protection laws, and OTT content regulations. [attached_file:1]  
+- Cloud-native microservices with CDN-optimized streaming and analytics. 
+- OAuth-based authentication with privacy-first data handling.
+- Compliance with Indian IT rules, data protection laws, and OTT content regulations. 
 
 ## Getting Started
 
