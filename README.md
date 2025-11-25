@@ -16,6 +16,15 @@ OTO follows a three-stage evolution:
 - OTOwire: Embedded streaming with multi-platform authentication. 
 - OTOplay: Full-scale aggregation with performance-based revenue sharing. 
 
+## ✨ Features
+
+| Feature                | Status  |
+| ---------------------- | ------- |
+| Unified OTT search     | ✅      |
+| Single sign-on         | 🚧      |
+| Cross-platform history | ✅      |
+| AI recommendations     | 🔮      |
+
 ## Tech & Compliance (Planned)
 
 - Cloud-native microservices with CDN-optimized streaming and analytics. 
